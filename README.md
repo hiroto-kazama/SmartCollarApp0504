@@ -1,5 +1,3 @@
-# SmartCollarApp0504
-
 # Smart Dog Collar App
 
 Smart Dog Collar App is an Android application designed to receive notifications sent from the Android Amplify server through Firebase. It provides a convenient way for users to stay updated and informed about their dog's activities and well-being.
@@ -41,4 +39,7 @@ Please note that the app is esigned to run on Android version 13.0 or above.
 For any inquiries or further information, please contact:
 
 Hiroto Kazama  
+
 Email: kazamah@oregonstate.edu
+
+Project website: http://smart-dog-collar-app-test-dev-423425829640.s3-website-us-west-2.amazonaws.com/
