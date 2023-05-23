@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartCollarApp0504</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration token: %s</string>
+</resources>
