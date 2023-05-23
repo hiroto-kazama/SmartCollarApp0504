@@ -1,6 +1,6 @@
 # Smart Dog Collar App
 
-Smart Dog Collar App is an Android application designed to receive notifications sent from the Android Amplify server through Firebase. It provides a convenient way for users to stay updated and informed about their dog's activities and well-being.
+## Smart Dog Collar App is an Android application designed to receive notifications sent from the Android Amplify server through Firebase. It provides a convenient way for users to stay updated and informed about their dog's activities and well-being.
 
 This app works in conjunction with our Smart Dog Collar, which is equipped with an Arduino chip. The collar's Arduino chip detects seizures in dogs and sends the corresponding signals to AWS (Amazon Web Services). AWS then generates notifications, which are received by the Smart Dog Collar App on the user's Android device.
 
